@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Text Index" source="com.glide.text_index">b840f3a42f121010137ead2ef699b6e1</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:06:15</sys_created_on>
+        <sys_id>0ec73a952f1e5010137ead2ef699b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="whatever" source="x_520707_whatever">c0b0f2512f1e5010137ead2ef699b646</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:06:15</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

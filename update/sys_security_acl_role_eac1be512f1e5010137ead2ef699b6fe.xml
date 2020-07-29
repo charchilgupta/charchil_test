@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 13:40:04</sys_created_on>
+        <sys_id>eac1be512f1e5010137ead2ef699b6fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_520707_whatever_accounts.x_520707_whatever.admin</sys_name>
+        <sys_package display_value="whatever" source="x_520707_whatever">c0b0f2512f1e5010137ead2ef699b646</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="whatever">c0b0f2512f1e5010137ead2ef699b646</sys_scope>
+        <sys_security_acl display_value="x_520707_whatever_accounts">e2c1be512f1e5010137ead2ef699b6fc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eac1be512f1e5010137ead2ef699b6fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 13:40:04</sys_updated_on>
+        <sys_user_role display_value="x_520707_whatever.admin" name="x_520707_whatever.admin">17c0b29d2f965010137ead2ef699b6b1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
